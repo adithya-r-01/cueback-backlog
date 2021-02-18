@@ -14,7 +14,7 @@ The results are returned in a json schema following
 
 ```json
 {
-    "link" : "......"
+    "link" : "......",
     "author" : "....."
 }
 ```
